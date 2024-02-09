@@ -16,4 +16,4 @@
 ![screen:](https://github.com/hokum83/12-046/blob/main/img/2-2.png)
 
 Состояние слейва:
-![screen:](https://github.com/hokum83/12-06/blob/main/img/2-3.png)у
+![screen:](https://github.com/hokum83/12-06/blob/main/img/2-3.png)
